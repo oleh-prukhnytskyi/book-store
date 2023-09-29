@@ -1,7 +1,7 @@
 package com.olegpruh.bookstore.dto.request;
 
-import lombok.Data;
 import java.math.BigDecimal;
+import lombok.Data;
 
 @Data
 public class CreateBookRequestDto {
